@@ -26,3 +26,5 @@ test:
 production:
   <<: *default
   database: hello_rails_react_production
+  username: chrismk34
+  password: 'Kmc781227'
