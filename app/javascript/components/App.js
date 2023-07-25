@@ -1,6 +1,6 @@
 import React from 'react';
 import Greeting from './Greeting';
-import { Route, Routes } from 'react-router';
+import { Route, Routes } from 'react-router-dom';
 
 const App = () => {
   return (
