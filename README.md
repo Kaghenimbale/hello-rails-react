@@ -99,7 +99,7 @@ To run the project, execute the following command:
 
 ### Deployment
 
-[Live Demo](https://recipe-app-i8cm.onrender.com)
+This App has not been deployed
 
 ### Run tests
 
